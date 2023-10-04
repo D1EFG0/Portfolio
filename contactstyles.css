@@ -1,0 +1,88 @@
+﻿body {
+    background-color: #d7d7d7;
+    /*background-image: url("gdl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+        */
+    
+}
+
+.navbar {
+    background-color: #ffffff;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 5px black;
+}
+
+.projectsandskills {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.aboutme {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.contact {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.home {
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    color: black;
+    text-decoration: none;
+    margin: 20px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header1{
+    align-self: center;
+    margin-left: 400px;
+    margin-top: 100px;
+    font-family: Georgia;
+    font-size: 70px;
+}
+
+.mail {
+    align-self: center;
+    margin-left: 480px;
+    font-family: Garamond;
+    font-size: 40px;
+}
+
+.phone {
+    align-self: center;
+    margin-left: 480px;
+    font-family: Garamond;
+    font-size: 40px;
+}
+
+.linkedin {
+    align-self: center;
+    margin-left: 480px;
+    font-family: Garamond;
+    font-size: 40px;
+}
