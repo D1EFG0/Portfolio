@@ -152,7 +152,17 @@
     margin-left: 470px;
 }
 
+.bmpimage {
+     height: 200px;
+    width: 400px;
+    margin-left: 470px;
+}
+
 .headersmall2 {
+    font-size: 35px;
+}
+
+.smallerheader9 {
     font-size: 35px;
 }
 
